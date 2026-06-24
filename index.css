@@ -1,0 +1,23 @@
+
+.nav-link li a{
+    text-decoration: none;
+    color: rgb(153, 226, 226);
+    text-decoration: none;
+}
+
+.inputclass {
+    padding: 1;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
